@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olà, seja bem-vindo! sou matheus e este meu perfil do github.<br>gosto muito de programar, sempre procuro conhecer novas tecnologias e desafios para me impulsionarem.<br>Desenvolver algoritmos que realmente sejam uteis para as pessoas é o meu objetivo.<br>Sobre a tecnologia, eu acredito que ela venha a ser uma parceira indispensavel para a preservação do meio ambiente, não podemos pensar apenas em evoluir como seres sem ter em mente o crescimento sustentavel como prioridade.<br>
+Olà, seja bem-vindo! **sou matheus, e este é meu perfil do github**.<br>**gosto muito de programar, sempre procuro conhecer novas tecnologias e desafios para me impulsionarem**.<br>Desenvolver algoritmos que realmente sejam uteis para as pessoas é o meu objetivo.<br>Sobre a tecnologia, eu acredito que ela venha a ser uma parceira indispensavel para a preservação do meio ambiente, não podemos pensar apenas em evoluir como seres sem ter em mente o crescimento sustentavel como prioridade.<br>
 
 
 ## 🌐 Socials:
