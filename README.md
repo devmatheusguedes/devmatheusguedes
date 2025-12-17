@@ -1,5 +1,13 @@
 # 💫 About Me:
-Olà, seja bem-vindo! **sou matheus, e este é meu perfil do github**.<br>**gosto muito de programar, sempre procuro conhecer novas tecnologias e desafios para me impulsionarem**.<br>Desenvolver algoritmos que realmente sejam uteis para as pessoas é o meu objetivo.<br>Sobre a tecnologia, eu acredito que ela venha a ser uma parceira indispensavel para a preservação do meio ambiente, não podemos pensar apenas em evoluir como seres sem ter em mente o crescimento sustentavel como prioridade.<br>
+Desenvolvedor Backend Java | Spring
+
+Cientista da Computação com foco em desenvolvimento backend e APIs RESTful. Atuo na construção de sistemas escaláveis, robustos e seguros utilizando Java e o ecossistema Spring.
+
+Tenho experiência com arquitetura em camadas (Spring MVC), boas práticas de desenvolvimento, Clean Code e Design Patterns, buscando sempre baixo acoplamento e alta coesão.
+
+Possuo experiência com autenticação e autorização utilizando JWT e OAuth2, incluindo login social com Google e GitHub.
+
+Gosto de trabalhar em equipe, contribuir com código legível e padronizado, e desenvolver soluções que realmente gerem valor para o negócio.<br>
 
 
 ## 🌐 Socials:
